@@ -6,10 +6,10 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I have traveled to 42 countries. You can follow me on Instagram @ Infinite_Voyage
 
-My Learning Process: 
+- My Learning Process: 
 - October 2024 - Began process of learning computer science / web development and other related skills.
-  10.8.2024 - Finished HTML and CSS course on Khan Academy
-  10.9.2024 - Installed GitHub
+- 10.8.2024 - Finished HTML and CSS course on Khan Academy
+- 10.9.2024 - Installed GitHub
 
 <!---
 PhoenixakaFefe/PhoenixakaFefe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
