@@ -9,7 +9,8 @@
 - My Learning Process: 
 - October 2024 - Began process of learning computer science / web development and other related skills.
 - 10.8.2024 - Finished HTML and CSS course on Khan Academy
-- 10.9.2024 - Installed GitHub; IBM Course (Git and GitHub Basics); learned how to create a new repository, add a new file, edit a file, upload a file, and commit your changes.
+- 10.9.2024 - Installed GitHub; IBM Course (Git and GitHub Basics); learned how to create a new repository, add a new file, edit a file, upload a file, and commit your changes. Learned how to create and merge branches. Finished module 1 of IBM Course.
+- 10.12.2024 - Began Harvard CS 50 Computer Science Course (Lecture 0 complete). Learned Scratch. 
 
 <!---
 PhoenixakaFefe/PhoenixakaFefe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
